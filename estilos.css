@@ -1,0 +1,22 @@
+p { 
+font-size:20px;
+font-family:"Comic Sans MS" ;
+font-weight: bold;
+color:#E7257D ;
+text-align:left;
+}  
+
+main { 
+    background-color:rgb(180, 158, 224);
+    
+
+}
+header {
+    background-color:red ;
+
+}
+footer {
+    background-color:rgb(180, 158, 224);
+    
+
+}
