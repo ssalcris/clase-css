@@ -3,20 +3,31 @@ font-size:20px;
 font-family:"Comic Sans MS" ;
 font-weight: bold;
 color:#E7257D ;
-text-align:left;
+text-align:left;}
+
+h1{ text-align:center;    
+
 }  
+h2{ font-size:30px;
+    text-align:center;
+
+
+}
 
 main { 
-    background-color:rgb(180, 158, 224);
+    background-color:rgb(2, 243, 223);
     
 
 }
 header {
-    background-color:red ;
+    background-color:cyan ;
 
 }
 footer {
     background-color:rgb(180, 158, 224);
-    
 
+}
+.parrafo1{font-size:30px;
+}
+.parrafo2{color:rgb(21, 87, 209)
 }
